@@ -17,6 +17,7 @@
     <url>http://community.jboss.org/en/arquillian/dev</url>
 
     <modules>
+        <module>graphene-webdriver-spi</module>
         <module>graphene-webdriver-impl</module>
         <module>graphene-webdriver-drone</module>
         <module>graphene-webdriver-depchain</module>
